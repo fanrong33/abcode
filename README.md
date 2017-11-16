@@ -34,8 +34,8 @@
 | phpinfo           | 679/sec  | 98%  | 1.60 |
 | error_log         | 7236/sec | 63%  | 0.91 |
 | request ip2       | 364/sec  | 100% |      |
-| WhichBrowser      | 107/sec  | 100% | 9.6  |
-| ThinkPHP          | 1500/sec | 100% | 0.7  |
+| WhichBrowser      | 107/sec  | 100% | 9.60 |
+| ThinkPHP          | 1500/sec | 100% | 0.70 |
 | memcache (set+get)| 3960/sec | 81%  | 0.68 |
 | memcache(get)     | 4400/sec | 87%  | 0.80 |
 | SSDB (setx+get)   | 1095/sec | 99%  | 1.30 |
